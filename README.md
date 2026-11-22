@@ -1,2 +1,3 @@
 # FinnLingo
-This is part of web programming 
+
+## developing FinnLingo app
